@@ -24,10 +24,10 @@ class Swap {
 };
 
 int main(){
-Swap prasad;
-prasad.getinfo();
-prasad.swapnumber();
-prasad.showinfo();
+Swap meghraj;
+meghraj.getinfo();
+meghraj.swapnumber();
+meghraj.showinfo();
 
 }
 
